@@ -1,5 +1,5 @@
-# cafebillingmanagementsystem
-Simple Cafe Billing System 
+# Cafebillingmanagementsystem
+Simple Cafe Billing System:
 This repository contains a basic Cafe Billing System implemented in Python using the Tkinter library for creating a graphical user interface.
 
 Features:

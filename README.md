@@ -3,14 +3,14 @@ Simple Cafe Billing System
 This repository contains a basic Cafe Billing System implemented in Python using the Tkinter library for creating a graphical user interface.
 
 Features:
-1)Graphical Interface: The application offers a user-friendly graphical interface to manage cafe orders and calculate bills.
-2)Order Generation: Each order is assigned a unique random order number.
-3)Item Entry: Users can input quantities for various cafe items such as French Fries, Lunch, Burger, Pizza, Cheese Burger, and Drinks.
-4)Cost Calculation: The system calculates the cost of each item based on predefined prices and entered quantities.
-5)Tax and Service Charge: A fixed tax rate and service charge are applied to compute the final bill.
-6)Price List Display: The "PRICE" button displays the price list for different cafe items.
-7)Total Calculation: Clicking the "TOTAL" button calculates the total bill, including tax and service charge.
-8)Reset and Exit: Users can reset the form using the "RESET" button or exit the application using the "EXIT" button.
+Graphical Interface: The application offers a user-friendly graphical interface to manage cafe orders and calculate bills.
+Order Generation: Each order is assigned a unique random order number.
+Item Entry: Users can input quantities for various cafe items such as French Fries, Lunch, Burger, Pizza, Cheese Burger, and Drinks.
+Cost Calculation: The system calculates the cost of each item based on predefined prices and entered quantities.
+Tax and Service Charge: A fixed tax rate and service charge are applied to compute the final bill.
+Price List Display: The "PRICE" button displays the price list for different cafe items.
+Total Calculation: Clicking the "TOTAL" button calculates the total bill, including tax and service charge.
+Reset and Exit: Users can reset the form using the "RESET" button or exit the application using the "EXIT" button.
 
 Implementation:
 The primary functionality is implemented in the cafe_billing_system.py script.
